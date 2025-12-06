@@ -3,7 +3,7 @@
 	"build": {
 		"dockerfile": "Dockerfile",
 		"args": {
-			"ZIG_VERSION": "0.14.1",
+			"ZIG_VERSION": "0.15.2",
 			"MINISIGN_VERSION": "0.12"
 		}
 	},
